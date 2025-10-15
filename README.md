@@ -1,5 +1,4 @@
 # GATK4-Germline-Variant-Calling-Pipeline
-# GATK4 Germline Variant Calling Pipeline 🧬
 
 This repository contains a **bash script** (`gatk_germline.sh`) implementing the **GATK4 Best Practices workflow** for **germline short variant discovery (SNPs & INDELs)** in human whole-genome sequencing (WGS) data.
 
